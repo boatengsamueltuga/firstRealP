@@ -18,3 +18,4 @@ Open index.html in your browser or open the folder in VS Code.
 
 ## GitHub Pages
 You can host this using GitHub Pages via repository settings.
+Hello everyone
